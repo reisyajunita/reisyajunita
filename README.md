@@ -1,11 +1,19 @@
 # Hi Peeps, I'm Rey!🙌😸
 
+<div align="center">
+<img hight="300" width="600" alt="GIF" align="center" src="https://github.com/reisyajunita/reisyajunita/blob/main/Cats%20Watching%20GIF.gif">
+</div>
+
+
+# About Me🤘: 
+
 🙋‍♀️Greetings! I'm Reisya Junita, a mathematics graduate of Pamulang University. I have a strong interest in data, with a focus on machine learning and data science. I am presently attending the AI engineer intensive training provided by Lintasarta, the Laskar AI cohort👩‍💻💻.<br>
 
-<img hight="200" width="300" alt="GIF" align="right" src="5e036c54-fafe-4dd1-806a-fbbbb0f053ac.jfif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- 🤖 Machine Learning
+- 🤖 Artificial Intelligence
+- 🚦 Machine Learning
 - 🧩Data Science 
 ### - Hobbies : 
 - 🎮 Gaming Addict 
