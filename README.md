@@ -9,8 +9,6 @@
 
 🙋‍♀️Greetings! I'm Reisya Junita, a mathematics graduate of Pamulang University. I have a strong interest in data, with a focus on machine learning and data science. I am presently attending the AI engineer intensive training provided by Lintasarta, the Laskar AI cohort👩‍💻💻.<br>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
 ### - Learning :
 - 🤖 Artificial Intelligence
 - 🚦 Machine Learning
@@ -20,13 +18,6 @@
 - 📖 Journaling
 - 🛍️ Shopping
 - 🚲 Road Biking
-
-</br>
-</br>
-</br>
-
-# Quotes Of The Day✨
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # Github Statistic
 <p align="left">
@@ -41,12 +32,14 @@
 For collaborations, discussions, or just to say hello, feel free to drop me a message!😉.
 
 <a href="mailto:reisyajunita@gmail.com">
- <img align="right" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/reisyajunita/">
-  <img align="right" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 
+# Quotes Of The Day✨
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
