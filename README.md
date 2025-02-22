@@ -27,7 +27,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:reisyajunita@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/reisya-junita-putri-7b326817b/">
+<a href="https://www.linkedin.com/in/reisyajunita/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
