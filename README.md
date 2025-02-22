@@ -1,4 +1,10 @@
-# Halo semua!
+# Quotes Of The Day✨
+
+<div align="center">
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+# Hello Everyone🙌😸
 
 Perkenalkan nama saya **Reisya Junita Putri**.<br>
 
@@ -16,8 +22,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 # Contact Me :
 
 For collaborations, discussions, or just to say hello, feel free to drop me a message!😉.
@@ -31,3 +35,5 @@ For collaborations, discussions, or just to say hello, feel free to drop me a me
 </br>
 </br>
 </a>
+
+
