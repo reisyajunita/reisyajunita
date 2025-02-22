@@ -1,18 +1,21 @@
+# Hi Peeps, I'm Rey!🙌😸
+
+🙋‍♀️Greetings! I'm Reisya Junita, a mathematics graduate of Pamulang University. I have a strong interest in data, with a focus on machine learning and data science. I am presently attending the AI engineer intensive training provided by Lintasarta, the Laskar AI cohort👩‍💻💻.<br>
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Hobbies : 
+- 🎮 Gaming Addict 
+- 📖 Journaling
+- 🛍️ Shopping
+- 🚲 Road Biking
+
+</br>
+</br>
+</br>
+
 # Quotes Of The Day✨
-
-<div align="center">
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
-# Hello Everyone🙌😸
-
-Perkenalkan nama saya **Reisya Junita Putri**.<br>
-
-Saya **AI Engineer Cohort** di [Dicoding](www.dicoding.com).<br>
-
-Sekarang saya sedang mengikuti Program Laskar Ai yang diselenggarakan oleh Lintasarta yang bekerjasama dengan Dicoding dan NVIDIA.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/reisyajunita/)ku ya.
 
 # Github Statistic
 <p align="left">
@@ -35,5 +38,4 @@ For collaborations, discussions, or just to say hello, feel free to drop me a me
 </br>
 </br>
 </a>
-
 
