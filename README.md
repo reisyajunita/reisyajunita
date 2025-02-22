@@ -2,8 +2,11 @@
 
 🙋‍♀️Greetings! I'm Reisya Junita, a mathematics graduate of Pamulang University. I have a strong interest in data, with a focus on machine learning and data science. I am presently attending the AI engineer intensive training provided by Lintasarta, the Laskar AI cohort👩‍💻💻.<br>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="200" width="300" alt="GIF" align="right" src="5e036c54-fafe-4dd1-806a-fbbbb0f053ac.jfif">
 
+### - Learning :
+- 🤖 Machine Learning
+- 🧩Data Science 
 ### - Hobbies : 
 - 🎮 Gaming Addict 
 - 📖 Journaling
