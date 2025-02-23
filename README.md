@@ -57,4 +57,4 @@ For collaborations, discussions, or just to say hello, feel free to drop me a me
 
 </div>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub issues](https://img.shields.io/github/issues/reisyajunita/reisyajunita)](https://github.com/reisyajunita/reisyajunita/issues) [![HitCount](https://views.whatilearened.today/views/github/reisyajunita/reisyajunita.svg)](https://github.com/reisyajunita/reisyajunita)
+[![GitHub issues](https://img.shields.io/github/issues/reisyajunita/reisyajunita)](https://github.com/reisyajunita/reisyajunita/issues) [![HitCount](https://views.whatilearened.today/views/github/reisyajunita/reisyajunita.svg)](https://github.com/reisyajunita/reisyajunita)
