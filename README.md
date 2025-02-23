@@ -37,13 +37,13 @@
 For collaborations, discussions, or just to say hello, feel free to drop me a message!😉.
 
 <a href="https://www.instagram.com/reisyajunitaa/">
- <img align="left" alt="Instagram" width="130" hight="100" src="https://github.com/reisyajunita/reisyajunita/blob/6b27f890eccb187c2980227e664b9b8c388121bd/instagram.png" />
+ <img align="left" alt="Instagram" width="150" hight="100" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/reisyajunita/">
-  <img align="left" alt="Linkedin" width="133" hight="100" src="https://github.com/reisyajunita/reisyajunita/blob/6b27f890eccb187c2980227e664b9b8c388121bd/Linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" />
 </a>
-<a href="(https://youtube.com/@reisyajunita?si=X_jawxQJ7zbwsczG)">
-  <img align="left" alt="Youtube" width="133" hight="100" src="https://github.com/reisyajunita/reisyajunita/blob/6b27f890eccb187c2980227e664b9b8c388121bd/youtube.png" />
+<a href="mailto:reisyajunita@gmail.com">
+  <img align="left" alt="Youtube" width="130" hight="100" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" />
 </p>
 </br>
 </br>
