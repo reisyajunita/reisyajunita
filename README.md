@@ -47,7 +47,7 @@ For collaborations, discussions, or just to say hello, feel free to drop me a me
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" />
 </a>
 <a href="mailto:reisyajunita@gmail.com">
-  <img align="left" alt="Youtube" width="130" hight="100" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" />
+  <img align="left" alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" />
 </p>
 </br>
 </br>
