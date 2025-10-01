@@ -71,14 +71,11 @@ Saya baru menyelesaikan program **AI Engineer – Laskar AI (Lintasarta x Dicodi
 
 <p align="center">
   
-🌟 **[Uber Ride Analytics](https://github.com/reisyajunita/uber-ride-analytics)**  
+🌟 **[Uber Ride Analytics](https://github.com/reisyajunita/data_analyst_project/tree/main/uber_analysis)**  
 Analisis data perjalanan Uber menggunakan **SQL, Python, dan Tableau** untuk menemukan pola customer & driver.  
 
-🌟 **[Student Dropout Prediction](https://github.com/reisyajunita/student-dropout-prediction)**  
+🌟 **[Student Dropout Prediction](https://github.com/reisyajunita/LaskarAI-Final-Portfolio/tree/main/08-Penerapan-DS-2)**  
 Model machine learning untuk memprediksi risiko dropout mahasiswa dengan **XGBoost + Streamlit**.  
-
-🌟 **[Sales Dashboard](https://github.com/reisyajunita/sales-dashboard)**  
-Dashboard interaktif di **Tableau** untuk memantau penjualan & KPI bisnis.  
 
 </p>
 
