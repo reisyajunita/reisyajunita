@@ -41,18 +41,18 @@ Saya baru menyelesaikan program **AI Engineer – Laskar AI (Lintasarta x Dicodi
 
 ## 🛠️ Tools & Skills  
 
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-009688?style=for-the-badge&logo=anaconda&logoColor=white)  
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-009688?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
 
 ---
 
