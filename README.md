@@ -1,13 +1,13 @@
-<!-- Banner / Header -->
+# Hi, I'm Rey! 🙌  
+🎯 Aspiring Data Analyst | SQL • Python • Tableau  
+
 <div align="center">
-  <h1>Hi, I'm Rey! 🙌</h1>
-  <h3>🎯 Aspiring Data Analyst | SQL • Python • Tableau</h3>
-  <img src="https://github.com/reisyajunita/reisyajunita/blob/25411936d2623eccaf6b80efe169f13823e5b6b5/Background.png" width="600"/>
+  <img hight="300" width="600" alt="GIF" src="https://github.com/reisyajunita/reisyajunita/blob/25411936d2623eccaf6b80efe169f13823e5b6b5/Background.png">
 </div>
 
 ---
 
-## 🌸 Tentang Saya  
+## 👩‍💻 Tentang Saya
 
 Halo, saya **Reisya Junita**, lulusan Matematika Universitas Pamulang dengan minat besar di bidang **data**.  
 Saya baru menyelesaikan program **AI Engineer – Laskar AI (Lintasarta x Dicoding)**, dan saat ini fokus mencari peluang sebagai **Data Analyst**.  
@@ -15,9 +15,9 @@ Saya baru menyelesaikan program **AI Engineer – Laskar AI (Lintasarta x Dicodi
 ✨ Saya percaya bahwa **data bukan hanya angka**, melainkan cerita yang bisa diubah menjadi **insight berharga**.  
 
 📌 Skill utama saya:  
-- SQL & Python untuk pembersihan dan analisis data  
-- Business Intelligence & Reporting (Tableau, Excel)  
-- Data Visualization untuk mendukung keputusan  
+- 📊 SQL & Python untuk pembersihan dan analisis data  
+- 📈 Business Intelligence & Reporting (Tableau, Excel)  
+- 🎨 Data Visualization untuk mendukung keputusan  
 
 🎯 Tujuan jangka panjang: berkembang menjadi **Data Scientist**  
 
@@ -56,7 +56,44 @@ Saya baru menyelesaikan program **AI Engineer – Laskar AI (Lintasarta x Dicodi
 
 ---
 
-## 📬 Hubungi Saya  
+## 📚 Currently Learning  
+
+🌱 Saat ini saya sedang mendalami beberapa skill untuk memperkuat karier di bidang Data Analyst:  
+
+- 🛠️ **Advanced SQL** untuk analisis data yang lebih kompleks  
+- 📊 **Data Storytelling dengan Tableau** agar visualisasi lebih powerful  
+- 🤖 **Dasar Machine Learning** untuk transisi ke Data Science  
+- 📝 **Best Practice Data Cleaning** dengan Python & Pandas  
+
+---
+
+## 📂 Featured Projects  
+
+<p align="center">
+  
+🌟 **[Uber Ride Analytics](https://github.com/reisyajunita/uber-ride-analytics)**  
+Analisis data perjalanan Uber menggunakan **SQL, Python, dan Tableau** untuk menemukan pola customer & driver.  
+
+🌟 **[Student Dropout Prediction](https://github.com/reisyajunita/student-dropout-prediction)**  
+Model machine learning untuk memprediksi risiko dropout mahasiswa dengan **XGBoost + Streamlit**.  
+
+🌟 **[Sales Dashboard](https://github.com/reisyajunita/sales-dashboard)**  
+Dashboard interaktif di **Tableau** untuk memantau penjualan & KPI bisnis.  
+
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reisyajunita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisyajunita&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Hubungi Saya  
 
 ✨ Mari terhubung dan berdiskusi mengenai peluang kerja, kolaborasi, atau sekadar sharing!  
 
@@ -68,22 +105,9 @@ Saya baru menyelesaikan program **AI Engineer – Laskar AI (Lintasarta x Dicodi
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Rey's GitHub stats](https://github-readme-stats.vercel.app/api?username=reisyajunita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reisyajunita&layout=compact&theme=tokyonight&hide_border=true)  
-
-</div>
-
----
-
 <div align="center">
 
 > 🌸 *"IF WE NEVER TRY, HOW WILL WE KNOW?"*  
 > — Stacey Ryan  
 
 </div>
-
----
