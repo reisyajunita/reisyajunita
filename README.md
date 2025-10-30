@@ -2,7 +2,7 @@
 🎯 Aspiring Data Analyst | SQL • Python • Tableau  
 
 <div align="center">
-  <img height="300" width="600" alt="Portfolio Banner" src="https://github.com/reisyajunita/reisyajunita/blob/725d6d8fce4bbddd2f54c269c2e51c9f29e64730/background.png">
+  <img height="300" width="600" alt="Portfolio Banner" src="https://github.com/reisyajunita/reisyajunita/blob/main/banner.png">
 </div>
 
 ---
