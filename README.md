@@ -108,6 +108,6 @@ Berikut beberapa proyek analisis data yang saya kerjakan secara end-to-end mengg
 <div align="center">
 
 > 🌷 *“Turning Data into Insightful Stories.”*  
-> — Reisya Junita Putri  
+> — Reisya Junita 
 
 </div>
