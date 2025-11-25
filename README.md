@@ -23,7 +23,7 @@
 ## 🎯 Fokus & Target Saat Ini  
 - 📈 Aktif mencari peluang sebagai **Data Analyst**  
 - 📊 Mendalami **Business Intelligence & Reporting**  
-- 🧠 Belajar lebih dalam **SQL (MySQL)** & **Tableau**  
+- 🧠 Belajar lebih dalam **Python**, **SQL (MySQL)** & **Tableau**  
 - 🚀 Membangun proyek analisis data berbasis insight bisnis  
 - 🎓 Target jangka panjang: transisi menuju **Data Science**
 
