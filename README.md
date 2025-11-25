@@ -1,5 +1,5 @@
 # Hi, I'm Rey! 🙌  
-🎯 Aspiring Data Analyst | SQL • Python • Tableau  
+🎯 Data Analyst | SQL • Python • Tableau • Canva
 
 <div align="center">
   <img height="400" width="1000" alt="Portfolio Banner" src="https://github.com/reisyajunita/reisyajunita/blob/main/new_banner.png">
