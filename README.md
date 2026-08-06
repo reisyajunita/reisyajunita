@@ -12,7 +12,7 @@
 > Berawal dari rasa penasaran terhadap pola di balik angka, saya menemukan bahwa **data punya cara unik untuk bercerita**.  
 >  
 > Saya **Reisya Junita Putri**, lulusan Matematika Universitas Pamulang dengan fokus pada **Data Analytics dan Business Intelligence**.  
-> Saya percaya bahwa setiap baris data menyimpan potensi untuk menjawab pertanyaan penting — dari strategi bisnis hingga pengalaman pelanggan.  
+> Saya percaya bahwa setiap baris data menyimpan potensi untuk menjawab pertanyaan penting, dari strategi bisnis hingga pengalaman pelanggan.  
 >  
 > Saat ini saya berfokus mengasah kemampuan di **SQL, Python, dan Tableau**, dan membangun berbagai proyek analisis data end-to-end yang menekankan *storytelling berbasis insight*.  
 >  
@@ -98,7 +98,7 @@ Berikut beberapa proyek analisis data yang saya kerjakan secara end-to-end mengg
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reisyajunita/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:reisyajunita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:reisyajuni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/reisyajunitaa/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://public.tableau.com/app/profile/reisya.junita"><img src="https://img.shields.io/badge/-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 </p>
